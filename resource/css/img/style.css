@@ -1,0 +1,24 @@
+* {
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+html,
+body {
+	background-color:#fff;
+	color:#000;
+	text-rendering:optimizeLegibility;
+	font-size:16px;
+	font-family:'Work Sans','Arial',sans-serif;
+}
+
+.row{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+/** Header Section **/
+header {
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.7));
+}
